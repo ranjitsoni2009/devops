@@ -5,7 +5,7 @@ public class WelcomeApp {
 		System.out.println("Welcome to for loop");
 		int i=1;
 		while(i<=10) {
-			System.out.println("Welcome to App : "+i);
+			System.out.println("Welcome to App Trigger : "+i);
 			++i;
 		}
 	}
